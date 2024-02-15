@@ -6,7 +6,6 @@
       "version": "17",
       "jdkDistro": "tem",
       "installGradle": true
-    },
-    "ghcr.io/devcontainers/features/git:1": {}
+    }
   }
 }
